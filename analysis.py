@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the data
-file_path = "C:\\Users\\vinay\\Downloads\\Active Users (4) (1) (1).csv - Active Users.csv"
+file_path = "Active Users.csv"
 df = pd.read_csv(file_path)
 
 # Display the first few rows of the dataframe to understand its structure
